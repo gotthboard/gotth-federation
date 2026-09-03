@@ -1,5 +1,10 @@
 # gotth-federation
 
+> **Distribution:** GitHub is the public clone, and future release endpoint.
+> Forgejo remains canonical development and the issue/contribution location.
+> See [the distribution contract](docs/distribution.md).
+
+
 Reserved for reusable federation transport and reconciliation shared by future
 GOTTH applications.
 
@@ -21,3 +26,15 @@ publish an activity outside the application.
 
 Placeholder only. There is no implementation, API, release, tag, compatibility
 promise, or dependency to pin.
+
+## Installation, compatibility, and support
+
+Planned placeholder only. There is no implementation, API, support promise, or release.
+
+There is nothing to install or import. Do not add this repository as a
+dependency.
+
+The repository has no selected license and no long-term support promise.
+Versioning, release admission, security reporting, and contribution details are
+in [the release policy](docs/RELEASING.md), [security policy](SECURITY.md), and
+[contribution guide](CONTRIBUTING.md).
